@@ -1,11 +1,12 @@
 title: Alex Herrera Brietzke # your name (or website title) here
 logo: "logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>B.A. Digital Marketing<br>
+  B.A. Digital Marketing 
+  <br><br>
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/alex-herrera-brietzke-2ab09897/">View My LinkedIn Profile</a> 
+  <br><br>
   <a href="https://alexela14.wixsite.com/alexherrera">View My Personal Site</a> 
 
 theme: jekyll-theme-minimal
