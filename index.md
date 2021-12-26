@@ -2,7 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Bachelor Thesis
+
+### Extensive green roofs as an air pollution abatement strategy in Barcelona
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
