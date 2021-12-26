@@ -2,7 +2,7 @@
 
 ---
 
-### Bachelor Thesis
+## Bachelor Thesis
 
 ### Extensive green roofs as an air pollution abatement strategy in Barcelona
 
