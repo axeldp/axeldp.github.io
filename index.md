@@ -8,7 +8,7 @@
   
 [![Download paper](https://img.shields.io/badge/.pdf-Download%20paper-blue)](https://axeldp.github.io/pdf/TFG_ALEX_HERRERA_BRIETZKE.pdf)
 
-**Figure 2.9.** PM10 24h average levels in Barcelona’s air measurement stations from April 2019 to April 2021
+** Figure 2.9. ** PM10 24h average levels in Barcelona’s air measurement stations from April 2019 to April 2021
 <center><img src="images/figure2_9.png"/></center>
 
 **Figure 1.2.** Fossil fuels consumption from 2000 to 2019 (MT: Megatonnes & T: Tonne)
