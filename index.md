@@ -11,7 +11,7 @@ This study encompasses published research to date on how green roofs can help mi
 
 **Figure 2.9.** PM10 24h average levels in Barcelona’s air measurement stations from April 2019 to April 2021
 <center><img src="images/figure2_9.png"/></center>
-**Figure 1.2.** Fossil fuels consumption from 2000 to 2019 (MT: Megatonnes & T: Tonne)
+**Figure 1.2.** Fossil fuels consumption from 2000 to 2019 (MT: Megatonnes)
 <center><img src="images/figure1_2.png"/></center>
 ---
 ---
