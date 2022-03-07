@@ -5,8 +5,8 @@
 ## URL Refresher: ***Python script reloading every minute a specific URL***
 During my period at Innovation Group, our team live production was broadcasted in 2 different TVs during the working hours. The main problem was that someone had to refresh the website every time we wanted to see updated data. As an IT assistant I came up with the idea of creating a python script to automated the process of open the url, log in and reload the website.
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/axeldp/axeldp.github.io/python_projects/refresher/ig_tvstats_refresher.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/python_projects/refresher/ig_tvstats_refresher)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](python_projects/refresher/ig_tvstats_refresher.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](python_projects/refresher/ig_tvstats_refresher)
 <center><img src="images/refresher.png"/></center>
 
 ---
