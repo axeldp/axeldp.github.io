@@ -7,7 +7,7 @@ I decided to set up a 10.000€ demo account in Binance and test a trading strat
 
 In order to place a long position, following condition should be met: 
 
-1)BTC Price + 20MA Indicator > 200MA Indicator, 2)Stochastic RSI CrossUp Event under the 20% Zone, 3)2x Green Supertrend Indicators
+1. BTC Price + 20MA Indicator > 200MA Indicator 2. Stochastic RSI CrossUp Event under the 20% Zone 3. 2x Green Supertrend Indicators
 
 In order to place a short position, following condition should be met: 
 
