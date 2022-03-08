@@ -13,7 +13,7 @@ In order to place a long position, following condition should be met:
 In order to place a short position, following condition should be met: 
 1. BTC Price + 20MA Indicator < 200MA Indicator 
 2. Stochastic RSI CrossDown Event OVER the 80% Zone 
-3. 3. 2x Red Supertrend Indicators
+3. 2x Red Supertrend Indicators
 
 *Note: For the sake of experimentation, some positions only met partially the conditions explained.*
 
