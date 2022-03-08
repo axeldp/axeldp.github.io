@@ -4,13 +4,16 @@
 
 ## BTC/EUR Trading Strategy: ***Demo Account Data Analysis over 30 Days***
 I decided to set up a 10.000€ demo account in Binance and test a trading strategy for the 1 minute Bitcoin Chart. The data was gathered and calculated on Google Sheets. The startegy was based on the following algorithm. 
+
 In order to place a long position, following condition should be met: 
 1. BTC Price + 20MA Indicator > 200MA Indicator 
-2. 2. Stochastic RSI CrossUp Event under the 20% Zone 
-3. 3. 2x Green Supertrend Indicators
+2. Stochastic RSI CrossUp Event under the 20% Zone 
+3. 2x Green Supertrend Indicators
 
 In order to place a short position, following condition should be met: 
-1)BTC Price + 20MA Indicator < 200MA Indicator, 2)Stochastic RSI CrossDown Event OVER the 80% Zone, 3)2x Red Supertrend Indicators
+1. BTC Price + 20MA Indicator < 200MA Indicator 
+2. Stochastic RSI CrossDown Event OVER the 80% Zone 
+3. 3. 2x Red Supertrend Indicators
 
 *Note: For the sake of experimentation, some positions only met partially the conditions explained.*
 
