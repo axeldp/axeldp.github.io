@@ -26,7 +26,7 @@ During my period at Innovation Group, our team live production was broadcasted i
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/refresher/ig_tvstats_refresher.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/refresher/ig_tvstats_refresher.ipynb)
-<center><img src="images/refresher.png"/></center>
+<center><img src="images/refresher_02.png"/></center>
 
 ---
 
