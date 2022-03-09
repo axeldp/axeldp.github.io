@@ -3,7 +3,7 @@
 ---
 
 ## BTC/EUR Trading Strategy: ***Demo Account Data Analysis over 30 Days***
-I decided to set up a 10.000€ demo account in Binance and test a trading strategy for the 1 minute Bitcoin Chart. The data was gathered and calculated on Google Sheets. The startegy was based on the following algorithm. 
+I decided to set up a 10.000€ demo account in Binance and test a trading strategy for the 1 minute Bitcoin Chart. The data was gathered and calculated on Google Sheets. The startegy was based on the following algorithm (always counting a 1.5 risk/benefit Ratio). 
 
 In order to place a long position, following condition should be met: 
 1. BTC Price + 20MA Indicator > 200MA Indicator 
