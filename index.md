@@ -15,8 +15,8 @@ In order to place a short position, following condition should be met:
 2. Stochastic RSI CrossDown Event OVER the 80% Zone 
 3. 2x Red Supertrend Indicators
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/refresher/ig_tvstats_refresher.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/refresher/ig_tvstats_refresher.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/btc%20trading%20strategy/btc_strategy_analysis.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/btc%20trading%20strategy/btc_strategy_analysis.ipynb)
 <center><img src="images/btc_strategy_db.png"/></center>
 
 ## URL Refresher: ***Python script reloading every minute a specific URL***
