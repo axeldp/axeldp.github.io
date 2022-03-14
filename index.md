@@ -5,6 +5,8 @@
 ## Demand Forecasting with Machine Learning: ***Predicting NYC CitiBike montlhy trips with IBM AutoAI (Watson Studio)***
 Demand forecasting is critical to businesses and institutions because it utlimately defines profitability and accurate future scenarios. The integration of the IBM ML model for this project followed this process:
 <center><img src="images/demandforecast_project_flow.png"/></center>
+1. Data[^1] manipulation and aggregation with Python in a Jupiter Notebook.
+[^1]:Sources, Bike trips(https://s3.amazonaws.com/tripdata/index.html), Weather(https://www.weather.gov/wrh/Climate?wfo=okx)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/refresher/ig_tvstats_refresher.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/refresher/ig_tvstats_refresher.ipynb)
 <center><img src="images/refresher_02.png"/></center>
