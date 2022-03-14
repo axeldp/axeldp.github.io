@@ -5,12 +5,15 @@
 ## Demand Forecasting with Machine Learning: ***Predicting NYC CitiBike montlhy trips with IBM AutoAI (Watson Studio)***
 Demand forecasting is critical to businesses and institutions because it utlimately defines profitability and accurate future scenarios. The integration of the IBM ML model for this project followed this process:
 <center><img src="images/demandforecast_project_flow.png"/></center>
+
 1. Data manipulation and aggregation with Python in a Jupiter Notebook. 
+
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)]
 (https://axeldp.github.io/python_projects/wml_demand_forecasting/data_wrangling_wml.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]
 (https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/python_projects/wml_demand_forecasting/data_wrangling_wml.ipynb)
+
 
 2. Set-up account at IBM Cloud and upload data to a new project.
 3. Select the AutoAI with Regression Machine Learning Model.
