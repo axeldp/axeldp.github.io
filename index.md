@@ -2,6 +2,15 @@
 
 ---
 
+## Demand Forecasting with Machine Learning: ***Predicting NYC CitiBike montlhy trips with IBM AutoAI (Watson Studio)***
+Demand forecasting is critical to businesses and institutions because it utlimately defines profitability and accurate future scenarios. The integration of the IBM ML model for this project followed this process:
+<center><img src="images/refresher_02.png"/></center>
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/refresher/ig_tvstats_refresher.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/refresher/ig_tvstats_refresher.ipynb)
+<center><img src="images/refresher_02.png"/></center>
+
+---
+
 ## BTC/EUR Trading Strategy: ***Demo Account Data Analysis over 30 Days***
 I decided to set up a 10.000€ demo account in Binance and test a trading strategy for the 1 minute Bitcoin Chart. The data was gathered and calculated on Google Sheets. The startegy was based on the following algorithm (always counting a 1.5 risk/benefit Ratio). 
 
@@ -12,7 +21,7 @@ In order to place a long position, following condition should be met:
 
 In order to place a short position, following condition should be met: 
 1. BTC Price + 20MA Indicator < 200MA Indicator 
-2. Stochastic RSI CrossDown Event OVER the 80% Zone 
+2. Stochastic RSI CrossDown Event over the 80% Zone 
 3. 2x Red Supertrend Indicators
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/btc%20trading%20strategy/btc_strategy_analysis.html)
