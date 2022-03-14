@@ -4,6 +4,7 @@
 
 ## Demand Forecasting with Machine Learning: ***Predicting NYC CitiBike montlhy trips with IBM AutoAI (Watson Studio)***
 Demand forecasting is critical to businesses and institutions because it utlimately defines profitability and accurate future scenarios. The integration of the IBM ML model for this project followed this process:
+
 <center><img src="images/demandforecast_project_flow.png"/></center>
 
 1. Data manipulation and aggregation with Python in a Jupiter Notebook. 
