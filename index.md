@@ -20,6 +20,9 @@ Demand forecasting is critical to businesses and institutions because it utlimat
 
 RESULTS
 <center><img src="images/refresher_02.png"/></center>
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/refresher/ig_tvstats_refresher.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/refresher/ig_tvstats_refresher.ipynb)
+
 ---
 
 ## BTC/EUR Trading Strategy: ***Demo Account Data Analysis over 30 Days***
