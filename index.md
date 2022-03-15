@@ -21,7 +21,7 @@ Demand forecasting is critical to businesses and institutions because it utlimat
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/refresher/ig_tvstats_refresher.ipynb)
 
 Plotting the results
-<center><img src="images/refresher_02.png"/></center>
+<center><img src="images/x.png"/></center>
 
 ---
 
