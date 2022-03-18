@@ -2,6 +2,16 @@
 
 ---
 
+## Dash App: ***Interactive Instagram Followers World Map for different Accounts***
+Interactive Web App that shows followers distribution around the globe for different accounts. These four accounts belong to the same company tho. The App is developed and tested in a Jupyter Notebook. Nonetheless by default, Dash apps run on localhost and you can only access them on your own machine. To make it public, I "deployed" it to a server via [Heroku](https://www.heroku.com/) .
+
+<center><img src="images/x.png"/></center>
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/wml_demand_forecasting/x.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/wml_demand_forecasting/x.ipynb)
+
+---
+
 ## Demand Forecasting with Machine Learning: ***Predicting NYC CitiBike montlhy trips with IBM AutoAI (Watson Studio)***
 Demand forecasting is critical to businesses and institutions because it utlimately defines profitability and accurate future scenarios. The integration of the IBM Mashine Learning Model for this project followed this process:
 
