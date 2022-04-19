@@ -8,7 +8,7 @@ Interactive Web App that shows followers distribution around the globe for diffe
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/wml_demand_forecasting/x.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/wml_demand_forecasting/x.ipynb)
 
-<center><img src="images/x.png"/></center>
+<center><img src="images/map_app.png"/></center>
 
 ---
 
