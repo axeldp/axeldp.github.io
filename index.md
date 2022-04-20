@@ -5,9 +5,8 @@
 ## Dash App: ***Interactive Instagram Followers World Map for different Accounts***
 Interactive Web App that shows followers distribution around the globe for different Instagram accounts in form of a Choropleth map. These four accounts belong to the same company tho. The App is developed and tested in a Jupyter Notebook locally. 
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/wml_demand_forecasting/x.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/wml_demand_forecasting/x.ipynb)
-
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://axeldp.github.io/python_projects/sm_followers_map/dash_app_map_sm.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/axeldp/axeldp.github.io/tree/main/python_projects/sm_followers_map/dash_app_map_sm.ipynb)
 <center><img src="images/map_app_sm.png"/></center>
 
 ---
